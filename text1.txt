@@ -1,1 +1,3 @@
+Comando "git checkout" é usado para se movimentar entre branchs
 
+"git checkout -b Nome" para criar uma branch de nome "nome"
